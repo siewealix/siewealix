@@ -26,6 +26,8 @@
 ## 📌 Projets principaux
 
 - **Risk Monitor** : outil de détection et de suivi des profils à risque avec Python, Streamlit, SQLite et OpenAI API
+- **Assistant intelligent de gestion des e-mails** : application web permettant de consulter les e-mails Gmail du jour, générer un résumé global avec Groq, lire le contenu complet d’un mail, proposer une réponse IA et envoyer une réponse manuelle via Gmail.  
+  **Technologies :** React, Vite, CSS, n8n, Gmail API, Google Cloud OAuth, Groq, JSON, Git, GitHub.
 - **E-commerce Web** : application full stack avec React, Node.js, MongoDB et MySQL
 - **Gestion Appartement** : application de gestion locative en PHP MVC avec génération de PDF
 - **PcCleaner** : utilitaire Windows sécurisé développé avec .NET 8, WPF et MVVM
