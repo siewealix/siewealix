@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Fanuel Alix Siewe - Conception & développement web, Data & IA" width="100%" />
+  <img src="https://raw.githubusercontent.com/siewealix/siewealix/main/assets/profile-banner.svg" alt="Fanuel Alix Siewe - Conception &amp; développement web, Data &amp; IA" width="100%" />
 </p>
 
 <p align="center">
