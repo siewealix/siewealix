@@ -99,7 +99,7 @@ Application de gestion locative avec suivi des opérations, génération de docu
 ## Expérience technique
 
 ### EXOCOMS Group - Développeur Odoo / E-commerce, stagiaire
-**04/2026 - 06/2026**
+**02/2026 - 09/2026**
 
 Développement en binôme d'une application e-commerce spécialisée dans la vente de véhicules de marques chinoises avec **Odoo 19**.
 
@@ -112,7 +112,7 @@ Développement en binôme d'une application e-commerce spécialisée dans la ven
 `Odoo 19` `Python` `PostgreSQL` `XML / QWeb` `JavaScript` `GitHub` `Odoo SH`
 
 ### IFPGEC_VD22 - Chef de projet junior & Développeur Web, stagiaire
-**04/2022 - 06/2022**
+**03/2022 - 07/2022**
 
 Expérience mêlant prospection, recueil du besoin, cahier des charges et réalisation d'un site vitrine pour un commerce local.
 
