@@ -13,8 +13,7 @@
 Je conçois et développe des solutions web en m'intéressant particulièrement à la manière dont les **données**, l'**automatisation** et l'**intelligence artificielle** peuvent enrichir une application.
 
 Mon parcours couvre l'analyse du besoin, la conception d'interfaces, le développement web, les API, les bases de données, les tests, le déploiement et le travail collaboratif.
-
-🎓 **Bac+5 INSTA** - Directeur de projet en conception et développement de solutions informatiques, 2026-2028  
+ 
 🎯 **Recherche** - Alternance / stage en conception & développement web, Data ou IA  
 🗓️ **Rythme** - 3 semaines en entreprise / 1 semaine en formation
 
